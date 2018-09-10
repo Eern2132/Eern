@@ -4,12 +4,12 @@
 
 	"database": {
 		"user": "reactor",
-		"password": "hunter2",
+		"password": "anteiku",
 		"database": "reactor",
 		"host": "127.0.0.1"},
 
 	"tokens": {
-		"discord": "se.krit.token",
+		"discord": "NDg4ODI1MzY5MzgyNzQ4MTc2.Dnh4dA.KG-tbPIHyCRUnTTd6xtbxCH_JJI",
 
 		"stats": {
 			"bots.discord.pw": null,
